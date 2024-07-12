@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from '../components/header'
-import Body from '../components/body'
+import Header from '../components/Header.jsx'
+import Body from '../components/Body.jsx'
 import './HomePage.scss'
 const HomePage = () => {
   return (
